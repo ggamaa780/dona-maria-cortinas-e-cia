@@ -9,6 +9,7 @@ body{
 
 /*Topo do site*/
 header{
+    top: 0;
     background-color: #D13A65;
     display: flex;
     align-items: center;
